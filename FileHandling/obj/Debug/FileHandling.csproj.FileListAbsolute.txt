@@ -1,0 +1,11 @@
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.Form1.resources
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.Form2.resources
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

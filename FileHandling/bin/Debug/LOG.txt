@@ -1,0 +1,88 @@
+Date error: 25/05/2020 9:41:42 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 140
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 9:41:55 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 140
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 9:45:40 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 9:46:13 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 9:46:31 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 10:53:36 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 10:53:55 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 10:54:42 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 10:55:10 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 141
+****************************************************************************************************************************************
+ 
+Date error: 25/05/2020 11:06:10 System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 140
+****************************************************************************************************************************************
+ 
+Date error: 6/27/2021 7:39:48 PM System.ArgumentException: El valor de '0' no es válido para 'emSize'. 'emSize' debería ser mayor que 0 y menor o igual que System.Single.MaxValue.
+Nombre del parámetro: emSize
+   en System.Drawing.Font.Initialize(FontFamily family, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font.Initialize(String familyName, Single emSize, FontStyle style, GraphicsUnit unit, Byte gdiCharSet, Boolean gdiVerticalFont)
+   en System.Drawing.Font..ctor(String familyName, Single emSize, FontStyle style)
+   en FileHandling.Form2.changefont(ComboBox combo) en C:\Users\jazhi\OneDrive\Documentos\UTLD\QUINTO\Progra\FileHandling\FileHandling\Form2.cs:línea 140
+****************************************************************************************************************************************
+ 
